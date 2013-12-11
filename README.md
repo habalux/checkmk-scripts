@@ -1,0 +1,2 @@
+checkmk-scripts
+===============
